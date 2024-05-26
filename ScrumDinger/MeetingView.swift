@@ -14,6 +14,7 @@ struct MeetingView: View {
             HStack{
                 VStack {
                     Text("Seconds Elapsed")
+                    Text("PRUNE TEST")
                 }
                 VStack {
                     Text("Seconds Remaining")
