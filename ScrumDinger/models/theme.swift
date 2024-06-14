@@ -1,11 +1,7 @@
-//
-//  theme.swift
-//  ScrumDinger
-//
-//  Created by Pranaya Anargya (ID) on 11/06/24.
-//
+/*
+ See LICENSE folder for this sample’s licensing information.
+ */
 
-import Foundation
 import SwiftUI
 
 enum Theme: String {
